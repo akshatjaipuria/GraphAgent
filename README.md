@@ -1,13 +1,6 @@
-# GraphAgent (EAGV3 Session 8 Project)
+# GraphAgent
 
-A multi-agent growing-graph orchestrator built on top of the Session 7 cognitive architecture. The orchestrator executes cognitive tasks as nodes in a Directed Acyclic Graph (DAG) and runs independent nodes concurrently in parallel.
-
----
-
-## Git User Configuration
-Local user configured for this repository:
-* **User Name:** `Akshat jaipuria`
-* **Email:** `akshat.jaipuria504@gmail.com`
+A multi-agent growing-graph orchestrator built on top of the older simpler cognitive architecture. The orchestrator executes cognitive tasks as nodes in a Directed Acyclic Graph (DAG) and runs independent nodes concurrently in parallel.
 
 ---
 
