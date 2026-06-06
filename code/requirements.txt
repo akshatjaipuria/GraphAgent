@@ -1,0 +1,8 @@
+mcp[cli]
+httpx
+ddgs
+tavily-python
+trafilatura
+python-dotenv
+pytest
+pytest-asyncio
